@@ -18,15 +18,16 @@ The information in this repository is provided "as is" without warranty of any k
 
 | Name | Pronunciation (Guide) | Evidence | Remarks |
 |-----------|----------------------|-----------------------|----------|
-| `awk` | "awk" as in "talk" with a "w" |TODO:||
-| `grep` ||||
-| `sed` ||||
-| `tar` ||||
-| `gzip` ||||
-| `bzip2` ||||
-| `xz` ||||
-| `zcat` ||||
-| `pigz` ||||
+| Vim | "<i>One word, like Jim</i>" | [Official website](https://vimdoc.sourceforge.net/htmldoc/intro.html) ||
+| awk | "awk" as in "talk" with a "w" |TODO:||
+| grep ||||
+| sed ||||
+| tar ||||
+| gzip ||||
+| bzip2 ||||
+| xz ||||
+| zcat ||||
+| pigz ||||
 
 ## Software
 
